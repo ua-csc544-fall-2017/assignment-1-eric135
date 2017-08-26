@@ -1,0 +1,37 @@
+1. When communicating results, it is important to visualize your data in a manner that provides
+for intuitive (and more widespread) understanding of one's work. I plan to become a researcher and
+foresee this helping me to communicate the results of my work.
+
+2. I believe that we will learn the tools and techniques necessary to properly visualize data in a
+manner that leads to more effective communication of the data.
+
+3. C++, C, Java, Python, PHP, HTML (technically a markup langauge), CSS
+
+4. C++
+
+5. I've generated graphs in Excel/LibreOffice Calc. Over the summer, I presented a paper at a
+conference in Sweden and had to make bar charts for my slides.
+
+6. The largest dataset I've had to deal with was multiple gigabytes in size. I parsed it with
+scripts written in Python (written by me) based on Perl scripts (written by someone else).
+
+7. Likely the interactive maps shown during presidential elections. These maps effectively show
+the results at both the overall and state level without requiring any interaction on behalf of
+the user. If one wants more information on a particular state's results, they can click on the
+state to view it. As a result, these maps are intuitive to use.
+
+8. Probably the magnifying glass one that Dr. Levine showed us during the first lecture. I had
+no idea what the percentages within the glass represented.
+
+9. 85th percentile
+
+10. 50th percentile
+
+11. I regularly use Git for my research. I had used Subversion rarely.
+
+12. A good amount (I use it regularly for my research work)
+
+13. A good amount (I use it regularly for my research work)
+
+14. Octopuses have been known to crawl on land (and can survive on land for several minutes at
+a time).
